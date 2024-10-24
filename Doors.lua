@@ -405,7 +405,7 @@ ThunderToggleUI.TextSize = 19
 ThunderToggleUI.Draggable = true
 
 ThunderToggleUI.MouseButton1Click:Connect(function()
-    setclipboard("https://discord.gg/TdStSqtM8p")
+    setclipboard("https://discord.gg/bndA4Vd7")
 end)
 end
 
